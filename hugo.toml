@@ -1,0 +1,4 @@
+baseURL = 'https://rottencarrot21.github.io/blog'
+languageCode = 'ja-jp'
+title = 'ブログ'
+theme = 'PaperMod'
